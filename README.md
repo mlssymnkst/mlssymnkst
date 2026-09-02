@@ -126,7 +126,7 @@ Integrating different data sources into a structured analytical environment.
 
 <br>
 
-<a href="https://github.com/mlssymnkst">
+<a href="https://github.com/mlssymnkst/lamore">
   <img src="https://img.shields.io/badge/view%20project-8B3A50?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -143,10 +143,6 @@ Transforming data into visual insights that support decision-making.
 `Power BI` `SQL` `Data Analysis`
 
 <br>
-
-<a href="https://github.com/mlssymnkst">
-  <img src="https://img.shields.io/badge/view%20project-E7C7D2?style=for-the-badge&logo=github&logoColor=3B3035"/>
-</a>
 
 </td>
 
@@ -166,7 +162,7 @@ Exploring patterns, trends and insights through real-world datasets.
 
 <br>
 
-<a href="https://github.com/mlssymnkst">
+<a href="https://github.com/mlssymnkst/docelar">
   <img src="https://img.shields.io/badge/view%20project-8B3A50?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -184,7 +180,7 @@ Combining technology, interface design and data-driven thinking.
 
 <br>
 
-<a href="https://github.com/mlssymnkst">
+<a href="https://github.com/mlssymnkst/soa">
   <img src="https://img.shields.io/badge/view%20project-E7C7D2?style=for-the-badge&logo=github&logoColor=3B3035"/>
 </a>
 
