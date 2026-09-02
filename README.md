@@ -199,14 +199,9 @@ Combining technology, interface design and data-driven thinking.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mlssymnkst/mlssymnkst/main/profile/stats.svg" width="48%"/>
 <img src="https://raw.githubusercontent.com/mlssymnkst/mlssymnkst/main/profile/top-langs.svg" width="48%"/>
 
 </div>
-
-<br>
-
-I like projects where **data isn't just collected — it's transformed into something useful.**
 
 <br>
 
@@ -218,7 +213,7 @@ When I'm not working with data, you'll probably find me:
 📚 researching topics that catch my curiosity
 🎨 designing and organizing digital spaces
 ☕ working on a project with a drink beside me
-🦊 finding inspiration in Japanese aesthetics
+🍪 cooking anything
 
 <br>
 
