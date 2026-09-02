@@ -199,9 +199,8 @@ Combining technology, interface design and data-driven thinking.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mlssymnkst&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlssymnkst&layout=compact&langs_count=8&theme=rose_pine&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/mlssymnkst/mlssymnkst/main/profile/stats.svg" width="48%"/>
+<img src="https://raw.githubusercontent.com/mlssymnkst/mlssymnkst/main/profile/top-langs.svg" width="48%"/>
 
 </div>
 
