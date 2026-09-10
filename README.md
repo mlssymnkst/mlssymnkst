@@ -140,7 +140,7 @@ Integrating different data sources into a structured analytical environment.
 
 Transforming data into visual insights that support decision-making.
 
-`Power BI` `SQL` `Data Analysis`
+`Power BI` `SQL` `Data Analysis` `Python`
 
 <br>
 
@@ -158,7 +158,7 @@ Transforming data into visual insights that support decision-making.
 
 Exploring patterns, trends and insights through real-world datasets.
 
-`Python` `Pandas` `Statistics` `Visualization`
+`Python` `Pandas` `Statistics` `Visualization` `Streamlit and other Bibs`
 
 <br>
 
@@ -227,7 +227,7 @@ When I'm not working with data, you'll probably find me:
 
 <br><br>
 
-**always learning · always building · always curious**
+**learning ·building · always curious**
 
 ୨୧
 
